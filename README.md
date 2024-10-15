@@ -43,11 +43,7 @@ python alarm_clock.py
 ### Alarm goes off:
 When the set time is reached, the application will notify you with a sound or message.
 
-### Project Structure
-Alarm-Clock/
-├── alarm_clock.py       # Main script for the alarm clock
-├── README.md            # Project documentation
-└── assets/              # Optional: Folder to store any sound files or images
+
 
 
 
